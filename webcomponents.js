@@ -9,6 +9,7 @@
  */
 // @version 0.5.4-ddb35fb
 window.WebComponents = window.WebComponents || {};
+window.Window = window.Window || {};
 
 (function(scope) {
   var flags = scope.flags || {};
